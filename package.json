@@ -1,0 +1,15 @@
+{
+  "name": "nodepckgname",
+  "version": "1.0.0",
+  "description": "node package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ronak jangir",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "express": "^4.18.2"
+  }
+}
